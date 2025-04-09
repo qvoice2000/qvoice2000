@@ -4,12 +4,14 @@
 |----|-------|---------------|------------------|
 |   Bart Verbruggen | Netherlands | 20 | Brighton |
 |   Mark Flekken | Netherlands | 8 | Brentford |
-|   Thibaut Courtois|  Belgium | 103 | Real Madrid |
 |   Matz Sels | Belgium | 9 | Nottingham Forest |
+|   Thibaut Courtois|  Belgium | 103 | Real Madrid |
+|   Andriy Lunin | Ukraine | 15 | Real Madrid |
 |   Jordan Pickford |  England | 75 | Everton |
 |   Dean Henderson | England | 2 | Crystal Palace |
 |   Aaron Ramsdale | England | 5 | Southampton |
 |   Nick Pope | England | 10 | Newcastle United |
+|   Martin Dubravka | Slovakia | 52 | Newcastle United |
 |   David Raya | Spain | 11 | Arsenal |
 |   Roberto Sanchez | Spain | 3 | Chelsea |
 |   M-A ter Stegen | Germany | 42 | Barcelona |
