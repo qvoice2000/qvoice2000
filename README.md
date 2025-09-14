@@ -21,10 +21,12 @@
 |   Aaron Ramsdale | England | 5 | Southampton |
 |   Guglielmo Vicario | Italy | 4 | Tottenham Hotspur |
 |   Mads Hermannson | Denmark | 0 | West Ham United |
-|   Jose Sa | Portugal | x | Wolves |
+|   Sam Johnstone | England | x | Wolves |
 |----|-------|---------------|------------------|
 |   Mike Maignan | France | 30 | AC Milan |
-|   Joan García | Spain | x | Barcelona |
+|   Jan Sommer | Switzerland | x | Inter Milan |
+|   Unai Simon | Spain | 52 | Athletic Club |
+|   Joan García | Spain | 0 | Barcelona |
 |   M-A ter Stegen | Germany | 42 | Barcelona |
 |   Thibaut Courtois|  Belgium | 103 | Real Madrid |
 |   Andriy Lunin | Ukraine | 15 | Real Madrid |
