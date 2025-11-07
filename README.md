@@ -6,7 +6,7 @@
 |   Emiliano Martínez | Argentina | 51 | Aston Villa |
 |   Dorde Petrovic | Serbia | 9 | Bournemouth |
 |   Bart Verbruggen | Netherlands | 20 | Brighton |
-|   Mark Flekken | Netherlands | 8 | Brentford |
+|   Caoimhín Kelleher | Ireland | tbd | Brentford |
 |   Martin Dubravka | Slovakia | 52 | Burnley |
 |   Roberto Sanchez | Spain | 3 | Chelsea |
 |   Dean Henderson | England | 2 | Crystal Palace |
@@ -16,6 +16,7 @@
 |   Nick Pope | England | 10 | Newcastle United |
 |   Matz Sels | Belgium | 9 | Nottingham Forest |
 |   Alisson | Brazil | 72 | Liverpool |
+|   Giorgi Mamardashvili | Georgia || Liverpool |
 |   Gianluigi Donnarumma | Italy | 72 | Manchester City |
 |   Senne Lammens | Belgium | x | Manchester United |
 |   Aaron Ramsdale | England | 5 | Southampton |
@@ -27,7 +28,8 @@
 |   Jan Sommer | Switzerland | x | Inter Milan |
 |   Unai Simon | Spain | 52 | Athletic Club |
 |   Joan García | Spain | 0 | Barcelona |
-|   M-A ter Stegen | Germany | 42 | Barcelona |
+|   Wojciech Szczesny | Poland | tbd | Barcelona |
+|   Mark Flekken | Netherlands | 8 | Leverkusen |
 |   Thibaut Courtois|  Belgium | 103 | Real Madrid |
 |   Andriy Lunin | Ukraine | 15 | Real Madrid |
 |   Milinkovic-Savic | Serbia | 19 | Napoli |
