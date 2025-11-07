@@ -18,6 +18,7 @@
 |   Alisson | Brazil | 72 | Liverpool |
 |   Giorgi Mamardashvili | Georgia || Liverpool |
 |   Gianluigi Donnarumma | Italy | 72 | Manchester City |
+|   Altay Bayindir | Turkey | x | Manchester United |
 |   Senne Lammens | Belgium | x | Manchester United |
 |   Aaron Ramsdale | England | 5 | Southampton |
 |   Guglielmo Vicario | Italy | 4 | Tottenham Hotspur |
