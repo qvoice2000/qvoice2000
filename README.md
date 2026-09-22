@@ -3,12 +3,12 @@
 | Keeper | National Team | Caps |  Club |
 |----|-------|---------------|------------------|
 |   David Raya | Spain | 11 | Arsenal |
-|   Emiliano Martínez | Argentina | 51 | Aston Villa |
+|   x | x | x | Aston Villa |
 |   Dorde Petrovic | Serbia | 9 | Bournemouth |
 |   Bart Verbruggen | Netherlands | 20 | Brighton |
 |   Caoimhín Kelleher | Ireland | tbd | Brentford |
-|   Martin Dubravka | Slovakia | 52 | Burnley |
-|   Roberto Sanchez | Spain | 3 | Chelsea |
+|   x | x | x | Hull |
+|   Emiliano Martínez | Argentina | 51 | Chelsea |
 |   Dean Henderson | England | 2 | Crystal Palace |
 |   Jordan Pickford |  England | 75 | Everton |
 |   Bernd Leno | Germany | x | Fulham |
@@ -18,20 +18,16 @@
 |   Alisson | Brazil | 72 | Liverpool |
 |   Giorgi Mamardashvili | Georgia || Liverpool |
 |   Gianluigi Donnarumma | Italy | 72 | Manchester City |
-|   Altay Bayindir | Turkey | x | Manchester United |
 |   Senne Lammens | Belgium | x | Manchester United |
 |   Aaron Ramsdale | England | 5 | Southampton |
 |   Guglielmo Vicario | Italy | 4 | Tottenham Hotspur |
-|   Mads Hermannson | Denmark | 0 | West Ham United |
+|   Robin Roefs | Netherlands | 1 | Sunderland |
 |   Sam Johnstone | England | x | Wolves |
 |----|-------|---------------|------------------|
 |   Mike Maignan | France | 30 | AC Milan |
 |   Jan Sommer | Switzerland | x | Inter Milan |
-|   Unai Simon | Spain | 52 | Athletic Club |
 |   Joan García | Spain | 0 | Barcelona |
-|   Wojciech Szczesny | Poland | tbd | Barcelona |
 |   Mark Flekken | Netherlands | 8 | Leverkusen |
 |   Thibaut Courtois|  Belgium | 103 | Real Madrid |
-|   Andriy Lunin | Ukraine | 15 | Real Madrid |
 |   Milinkovic-Savic | Serbia | 19 | Napoli |
 
