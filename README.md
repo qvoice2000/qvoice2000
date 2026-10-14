@@ -28,6 +28,6 @@
 |   Jan Sommer | Switzerland | x | Inter Milan |
 |   Joan García | Spain | 0 | Barcelona |
 |   Mark Flekken | Netherlands | 8 | Leverkusen |
-|   Thibaut Courtois|  Belgium | 103 | Real Madrid |
+|   Jan Oblak | Slovenia |  | Atletico Madrid |
 |   Milinkovic-Savic | Serbia | 19 | Napoli |
 
