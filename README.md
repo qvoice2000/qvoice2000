@@ -7,7 +7,7 @@
 |   Dorde Petrovic | Serbia | 9 | Bournemouth |
 |   Bart Verbruggen | Netherlands | 20 | Brighton |
 |   Caoimhín Kelleher | Ireland | tbd | Brentford |
-|   x | x | x | Hull |
+|   Konstantinos Tzolakis | Greece | 13 | Hull |
 |   Emiliano Martínez | Argentina | 51 | Chelsea |
 |   Dean Henderson | England | 2 | Crystal Palace |
 |   Jordan Pickford |  England | 75 | Everton |
@@ -29,5 +29,6 @@
 |   Joan García | Spain | 0 | Barcelona |
 |   Mark Flekken | Netherlands | 8 | Leverkusen |
 |   Jan Oblak | Slovenia |  | Atletico Madrid |
+|   Thibaut Courtois | Belgium | 110 | Real Madrid |
 |   Milinkovic-Savic | Serbia | 19 | Napoli |
 
